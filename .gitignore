@@ -125,3 +125,7 @@ product/.gitignore
 product/.mvn/
 product/mvnw
 product/mvnw.cmd
+.idea/encodings.xml
+common/common.iml
+common/src/main/resources/
+common/src/test/

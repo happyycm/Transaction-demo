@@ -1,0 +1,10 @@
+POST http://127.0.0.1:9261/customer/buy
+Content-Type: application/json
+
+{
+  "customerId":1195226666873953010,
+  "productId":1205414316241563649,
+  "productCount":1
+}
+
+###
